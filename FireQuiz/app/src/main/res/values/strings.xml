@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FireQuiz</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="login_button">Login</string>
+    <string name="login_username_hint">Your Name</string>
+
+    <string name="wait_game_create_button">Create Game</string>
+    <string name="wait_game_progress_text">Looking for your opponent</string>
+
+    <string name="game_game_name_placeholder">Game Name</string>
+    <string name="game_my_score_placeholder">0</string>
+    <string name="game_opponent_score_placeholder">0</string>
+    <string name="game_my_score_name_placeholder">Your Score</string>
+    <string name="game_opponent_score_name_placeholder">Opponent Score</string>
+    <string name="game_question_placeholder">Question</string>
+    <string name="game_option_1_placeholder">Option 1</string>
+    <string name="game_option_2_placeholder">Option 2</string>
+    <string name="game_option_3_placeholder">Option 3</string>
+    <string name="game_option_4_placeholder">Option 4</string>
+</resources>
